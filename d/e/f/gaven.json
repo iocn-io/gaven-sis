@@ -1,8 +1,4 @@
 {
-  "build": {
-  },
-  "auth": [
-  ],
   "props":{
     "version":"v1.0"
   },
