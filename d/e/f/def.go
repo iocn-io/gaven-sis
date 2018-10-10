@@ -1,5 +1,5 @@
 package def
 
-func def() string {
+func Def() string {
 	return "I am def v2"
 }
