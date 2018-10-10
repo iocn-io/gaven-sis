@@ -1,4 +1,4 @@
-package Alice
+package alice
 
 import "fmt"
 
