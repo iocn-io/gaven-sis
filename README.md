@@ -1,2 +1,1 @@
-# gaven-sis
-gaven sis for dependency test
+A test package for gaventest
